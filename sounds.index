@@ -1,11 +1,11 @@
 {
     "translationCatalog" : "ambience-berlin",
     "files" : [
-        { "displayName" : "berlin-ringtone"          , "fileName" : "berlin_ringtone.wav" },
-        { "displayName" : "berlin-messagetone"       , "fileName" : "berlin_message.wav" },
-        { "displayName" : "berlin-imtone"            , "fileName" : "berlin_im.wav" },
-        { "displayName" : "berlin-emailtone"         , "fileName" : "berlin_email.wav" },
-        { "displayName" : "berlin-calendar-alarm"    , "fileName" : "berlin_calendar.wav" },
-        { "displayName" : "berlin-clock-alarm"       , "fileName" : "berlin_clock.wav" }
+        { "displayName" : "berlin-ringtone"          , "fileName" : "berlin_Ringtone.wav" },
+        { "displayName" : "berlin-messagetone"       , "fileName" : "berlin_Message.wav" },
+        { "displayName" : "berlin-imtone"            , "fileName" : "berlin_IM.wav" },
+        { "displayName" : "berlin-emailtone"         , "fileName" : "berlin_Email.wav" },
+        { "displayName" : "berlin-calendar-alarm"    , "fileName" : "berlin_Calendar.wav" },
+        { "displayName" : "berlin-clock-alarm"       , "fileName" : "berlin_Clock.wav" }
     ]
 }
