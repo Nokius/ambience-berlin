@@ -2,16 +2,16 @@ import QtQuick 2.0
 
 Item {
     function qsTrIdString() {
-        //% "Template Ambience Name"
+        //% "Berlin Ambience"
         QT_TRID_NOOP("ambience-berlin")
         //% "Ringtone"
         QT_TRID_NOOP("berlin-ringtone")
         //% "IM tone"
-        QT_TRID_NOOP("berlin-im")
+        QT_TRID_NOOP("berlin-imtone")
         //% "Email tone"
-        QT_TRID_NOOP("berlin-email")
+        QT_TRID_NOOP("berlin-emailtone")
         //% "Message tone"
-        QT_TRID_NOOP("berlin-message")
+        QT_TRID_NOOP("berlin-messagetone")
         //% "Calendar alarm"
         QT_TRID_NOOP("berlin-calendar-alarm")
         //% "Clock Alarm"
