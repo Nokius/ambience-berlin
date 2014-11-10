@@ -1,0 +1,18 @@
+{
+    "translationCatalog"        : "ambience-berlin",
+    "displayName"               : "Berlin",
+    "ringerToneFile"            : { "file": "berlin_Ringtone.wav", "enabled": 1 },
+    "messageToneFile"           : { "file": "berlin_Message.wav",  "enabled": 1 },
+    "mailToneFile"              : { "file": "berlin_Email.wav",    "enabled": 1 },
+    "internetCallToneFile"      : { "file": "berlin_IM.wav",       "enabled": 1 },
+    "chatToneFile"              : { "file": "berlin_IM.wav",     "enabled": 1 },
+    "calendarToneFile"          : { "file": "berlin_Calendar.wav", "enabled": 1 },
+    "clockAlarmToneFile"        : { "file": "berlin_Clock.wav",    "enabled": 1 },
+    "wallpaper"                 : "ambience-berlin.jpg",
+    "highlightColor"            : "#E6E8FA",
+    "secondaryHighlightColor"   : "#E6E8FA",
+    "primaryColor"              : "#FFFFFF",
+    "secondaryColor"            : "#FFFFFF99",
+    "ringerVolume"              : 60,
+    "favorite"			: true
+}
