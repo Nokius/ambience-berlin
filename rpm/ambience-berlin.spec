@@ -1,6 +1,6 @@
 Name:       ambience-berlin
 
-Summary:    Ambience Berlin
+Summary:    Berlin Ambience
 Version:    0.0.1
 Release:    1
 Group:      System/GUI/Other
