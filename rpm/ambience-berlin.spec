@@ -57,3 +57,4 @@ systemctl-user restart ambienced.service
 %changelog
 * Mon Nov 10 2014 Nokius
 - Reboot problem is fixed
+- ringtone problem is fixed
